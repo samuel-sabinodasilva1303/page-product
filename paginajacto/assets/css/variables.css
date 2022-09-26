@@ -1,0 +1,10 @@
+:root {
+  --primary-color: #0A1128;
+  --white-color: #FFFFFF;
+  --light-gray-color: #EEEEEE;
+  --secondary-color: crimson;
+  --gap: 3rem;
+  --color-base: rgb(50,205,50);
+  --color-secondary: rgb(173, 170, 170);
+  --color-b: rgb(50, 167, 50);
+}
